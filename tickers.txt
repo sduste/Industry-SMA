@@ -1,0 +1,14 @@
+ZENTEC.NS,Aerospace & Defence
+ROSSELLIND.NS,Aerospace & Defence
+MIDHANI.NS,Aerospace & Defence
+APOLLO.NS,Aerospace & Defence
+ASTRAMICRO.NS,Aerospace & Defence 
+BDL.NS,Aerospace & Defence 
+BEL.NS,Aerospace & Defence
+DCXINDIA.NS,Aerospace & Defence
+DATAPATTNS.NS,Aerospace & Defence
+GRSE.NS,Aerospace & Defence
+HAL.NS,Aerospace & Defence
+MTARTECH.NS,Aerospace & Defence
+PARAS.NS,Aerospace & Defence
+IDEAFORGE.NS, Aerospace & Defence
