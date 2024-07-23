@@ -12,3 +12,6 @@ HAL.NS,Aerospace & Defence
 MTARTECH.NS,Aerospace & Defence
 PARAS.NS,Aerospace & Defence
 IDEAFORGE.NS, Aerospace & Defence
+M&M.NS, Automobiles
+MARUTI.NS, Automobiles,
+HINDMOTORS.NS, Automobiles
